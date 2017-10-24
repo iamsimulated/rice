@@ -1,4 +1,10 @@
 # rice
 "Rice" is a word that is commonly used to refer to making visual improvements and customization's on one's desktop.
 
-bg color: #002B36
+
+##### the magic:
+* [wallpaper](https://github.com/wes-kam/rice/tree/master/wallpaper)
+* [window manager](https://github.com/baskerville/bspwm)
+* [icons](https://github.com/numixproject/numix-icon-theme-circle)
+* [theme](https://github.com/numixproject/numix-gtk-theme)
+---
