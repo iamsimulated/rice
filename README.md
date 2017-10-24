@@ -3,7 +3,7 @@
 
 
 ##### the magic:
-* [wallpaper](https://github.com/wes-kam/rice/tree/master/wallpaper)
+* [wallpaper](https://github.com/wes-kam/rice/blob/master/wallpaper/breathe.jpg)
 * [window manager](https://github.com/baskerville/bspwm)
 * [icons](https://github.com/numixproject/numix-icon-theme-circle)
 * [theme](https://github.com/numixproject/numix-gtk-theme)
