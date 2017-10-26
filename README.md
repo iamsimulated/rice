@@ -1,9 +1,14 @@
 # rice
 "Rice" is a word that is commonly used to refer to making visual improvements and customization's on one's desktop.
 
-
-##### the magic:
-* [wallpaper](https://github.com/wes-kam/rice/blob/master/wallpaper)
+---
+##### the config:
+* [distro](http://releases.ubuntu.com/16.04/)
 * [icons](https://github.com/numixproject/numix-icon-theme-circle)
 * [theme](https://github.com/numixproject/numix-gtk-theme)
+* [wallpaper](https://github.com/wes-kam/rice/blob/master/wallpaper)
 ---
+
+![screenshot](https://i.imgur.com/MrpKKBD.png)
+
+Use anything you like. I did.
