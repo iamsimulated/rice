@@ -1,13 +1,3 @@
-# rice
-"Rice" is a word that is commonly used to refer to making visual improvements and customization's on one's desktop.
-
----
-##### the config:
-* [distro](http://releases.ubuntu.com/16.04/)
-* [icons](https://github.com/numixproject/numix-icon-theme-circle)
-* [theme](https://github.com/numixproject/numix-gtk-theme)
-* [wallpaper](https://github.com/wes-kam/rice/blob/master/wallpaper)
----
 <pre align="center">
           _____                    _____                    _____                    _____          
          /\    \                  /\    \                  /\    \                  /\    \         
@@ -31,8 +21,17 @@
         \:|   |                  \::/    /                \::/    /                \::/    /        
          \|___|                   \/____/                  \/____/                  \/____/         
 </pre>
-
-<!-- ![screenshot](https://i.imgur.com/MrpKKBD.png) -->
+<pre align="center">
+"Rice" is a word that is commonly used to refer to making visual improvements and customization's on one's desktop.
+</pre>
 
 ---
+#### the config:
+* [distro](http://releases.ubuntu.com/16.04/)
+* [icons](https://github.com/numixproject/numix-icon-theme-circle)
+* [theme](https://github.com/numixproject/numix-gtk-theme)
+* [wallpaper](https://github.com/wes-kam/rice/blob/master/wallpaper)
+---
 
+
+<!-- ![screenshot](https://i.imgur.com/MrpKKBD.png) -->
