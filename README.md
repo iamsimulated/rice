@@ -4,10 +4,11 @@
  / ___) |/ ___) _  )
 | |   | ( (__( (/ / 
 |_|   |_|\____)____)
-</pre>
+
 <center>
 "Rice" is a word that is commonly used to refer to making visual improvements and customization's on one's desktop.
 </center>
+</pre>
 
 ---
 #### the config:
