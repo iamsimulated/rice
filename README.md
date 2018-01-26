@@ -1,8 +1,8 @@
 <pre align="center">
       (_)           
-  ____ _  ____ ____ 
+  ____ _  ____ ____
  / ___) |/ ___) _  )
-| |   | ( (__( (/ / 
+| |   | ( (__( (/ /
 |_|   |_|\____)____)
 
 <center>
@@ -15,7 +15,7 @@
 * [distro](http://releases.ubuntu.com/16.04/)
 * [icons](https://github.com/numixproject/numix-icon-theme-circle)
 * [theme](https://github.com/numixproject/numix-gtk-theme)
-* [wallpaper](https://github.com/wes-kam/rice/blob/master/wallpaper)
+* [wall](http://color.aurlien.net/#073642)
 ---
 
 
