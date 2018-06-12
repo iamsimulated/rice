@@ -1,10 +1,11 @@
 <pre align="center">
-      (_)           
-  ____ _  ____ ____
- / ___) |/ ___) _  )
-| |   | ( (__( (/ /
-|_|   |_|\____)____)
-
+        _               
+       (_)              
+  ____  _   ____   ____ 
+ / ___)| | / ___) / _  )
+| |    | |( (___ ( (/ / 
+|_|    |_| \____) \____)
+                        
 <center>
 "Rice" is a word that is commonly used to refer to making visual improvements and customization's on one's desktop.
 </center>
