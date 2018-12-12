@@ -16,7 +16,7 @@
 * [distro](https://www.ubuntu.com/download/desktop?)
 * [icons](https://github.com/numixproject/numix-icon-theme-circle)
 * [theme](https://github.com/numixproject/numix-gtk-theme)
-* [wall](http://color.aurlien.net/#073642)
+* [wall](http://color.aurlien.net/#667D99)
 ---
 
 
